@@ -56,7 +56,7 @@ To run this project, follow these steps:
     go run main.go
     ```
 
-The server will start at `localhost:8080`.
+The server will start at `localhost:8000`.
 
 ## Endpoints Usage
 
